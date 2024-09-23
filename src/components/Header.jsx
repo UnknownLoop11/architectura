@@ -3,7 +3,7 @@ import { menuIcon, logo } from "../assets";
 import Navlink from "./Navlink";
 import NavDropdown from "./NavDropdown";
 import CustomButton from "./CustomButton";
-import Navdrawer from "./Navdrawer";
+import Navdrawer from "./NavDrawer";
 
 // Navigation links and labels
 const NavBody = () => {
